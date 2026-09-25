@@ -1,4 +1,4 @@
-# ESPHome Zigbee ToF Awning Sensor 🎪⚡
+# ESPHome Zigbee ToF Awning Sensor
 
 A smart, low-power, battery-operated distance sensor designed to monitor and control motorized garden awnings in real-time. 
 
